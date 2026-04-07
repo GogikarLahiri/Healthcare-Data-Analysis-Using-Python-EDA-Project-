@@ -1,19 +1,56 @@
- Healthcare-Data-Analysis-Using-Python-EDA-Project-
- This project performs Exploratory Data Analysis (EDA) on a healthcare dataset to uncover patterns in medical conditions, billing costs, admission types, and hospital stay duration.
-The project includes data cleaning, outlier removal, feature engineering, and visualization using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
-Key insights include identifying the most common medical conditions, analyzing hospital billing patterns, and understanding how admission type and length of stay impact healthcare costs.
-
-Skills Used:
+Healthcare Data Analysis Using Python (EDA Project)
+Project Overview
+This project performs Exploratory Data Analysis (EDA) on a healthcare dataset to uncover insights related to:
+Medical conditions
+Hospital billing costs
+Admission types
+Length of hospital stay
+The goal is to identify patterns and help improve decision-making in healthcare systems.
+Objectives
+Perform data cleaning and preprocessing
+Handle missing values and duplicates
+Detect and remove outliers
+Analyze patient and billing data
+Create meaningful visualizations
+Extract actionable insights
+Steps Performed
+1. Data Cleaning
+Removed null values
+Handled duplicate records
+Standardized column formats
+2. Outlier Detection
+Used boxplots and IQR method
+Removed extreme values
+3. Exploratory Data Analysis (EDA)
+Distribution of medical conditions
+Admission type analysis
+Cost analysis
+4. Feature Engineering
+Created new meaningful features
+Transformed data for better insights
+5. Data Visualization
+Bar charts
+Pie charts
+Heatmaps
+Boxplots
+Key Insights
+Identified most common medical conditions
+Found patterns in hospital billing
+Analyzed impact of admission type on cost
+Observed relationship between stay duration and expenses
+Tech Stack
+Skills Used
 Python
-Pandas
-NumPy
 Data Cleaning
 Exploratory Data Analysis (EDA)
 Data Visualization
 Feature Engineering
+Libraries Used
+Pandas  
+NumPy  
+Matplotlib  
+Seaborn  
 
-Libraries Used:
-pandas
-numpy
-seaborn
-matplotlib
+
+
+## 📁 Project Structure
