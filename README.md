@@ -49,8 +49,4 @@ Libraries Used
 Pandas  
 NumPy  
 Matplotlib  
-Seaborn  
-
-
-
-## 📁 Project Structure
+Seaborn 
